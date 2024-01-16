@@ -9,6 +9,7 @@ fn main() {
         .to_uppercase();
     let note_template = format!("#{}
 
+---
 Brain dump
 - 
     ", file);
