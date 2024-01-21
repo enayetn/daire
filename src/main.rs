@@ -9,9 +9,11 @@ fn main() {
         .to_uppercase();
     let note_template = format!("#{}
 
+
 ---
-Brain dump
-- 
+## Rituals
+- [ ] Journal Entry
+- [ ] At least 1 line of Rust
     ", file);
     file.push_str(".md");
     let cwd = env::current_dir()
