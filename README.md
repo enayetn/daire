@@ -6,4 +6,6 @@ Pronounced 'diary' - commandline helper to generate templates for daily journal 
 
 ## Roadmap
 
-- [ ] Check for existing files before saving
+- [x] Check for existing files before saving
+- [ ] Add colored formatting to error message
+- [ ] 
