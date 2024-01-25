@@ -32,5 +32,6 @@ fn get_journal_template(template_title: &String) -> String {
     ## Rituals
     - [ ] Journal Entry
     - [ ] At least 1 line of Rust
+    - [ ] Gym
         ", template_title)
 }
