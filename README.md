@@ -8,4 +8,5 @@ Pronounced 'diary' - commandline helper to generate templates for daily journal 
 
 - [x] Check for existing files before saving
 - [ ] Add colored formatting to error message
-- [ ] 
+- [ ] Add going out to eat as a checklist item
+- [ ] Add dog walk to checklist
